@@ -1,6 +1,6 @@
 # os-specific listings first
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/osx-homebrew.yaml osx
-yaml https://raw.githubusercontent.com/RoboStack/ros-noetic/master/robostack.yaml
+yaml https://raw.githubusercontent.com/RoboStack/ros-noetic/master/conda.yaml
 
 # generic
 yaml https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/base.yaml
